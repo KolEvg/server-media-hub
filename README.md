@@ -1,4 +1,5 @@
-MediaHub client [here](https://github.com/KolEvg/media-hub-client).
+# MediaHub client [here](https://github.com/KolEvg/media-hub-client).
+
 ![giphy](https://user-images.githubusercontent.com/99588173/169652141-f3ce912c-9bf7-4c86-8b06-f47a79a43f9b.gif)
 
 ## Requirements:
