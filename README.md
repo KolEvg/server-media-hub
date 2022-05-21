@@ -17,10 +17,9 @@ Create `.env` file at the root of the project with the following contents:
 ```javascript
     DB_NAME=<DATABASE_NAME>
     DB_USER=<DATABASE_USER>
-    DB_PASSWORD=<DATABASE_PASSWORD>
-    DB_HOST=<DATABASE_HOST>
+    DB_PASS=<DATABASE_PASSWORD>
     DB_PORT=<DATABASE_PORT>
-    CLOUDINARY_URL=<CLOUDINARY_URL>
+    PORT=<DATABASE_HOST>
     SECRET_KEY=<YOUR_SECRET_KEY>
 ```
 # Start server Media Hub
@@ -32,12 +31,7 @@ Create `.env` file at the root of the project with the following contents:
 ### `npm run start:dev`
 ## Create your branch from develop
 
-
-
-
 ### `git checkout -b form-NameYourBranch`
-
-
 
 ### `git pull`
 ### `git fetch`
@@ -46,20 +40,3 @@ Create `.env` file at the root of the project with the following contents:
 ### `git add .`
 ### `git commit -m 'DON'T CREATE NAME HOW YOUR NAME!!!'`
 ### `git push`
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
