@@ -14,7 +14,7 @@ MediaHub client [here](https://github.com/KolEvg/media-hub-client).
 
 Create `.env` file at the root of the project with the following contents:
 
-`javascript
+```javascript
     DB_NAME=<DATABASE_NAME>
     DB_USER=<DATABASE_USER>
     DB_PASSWORD=<DATABASE_PASSWORD>
@@ -22,7 +22,7 @@ Create `.env` file at the root of the project with the following contents:
     DB_PORT=<DATABASE_PORT>
     CLOUDINARY_URL=<CLOUDINARY_URL>
     SECRET_KEY=<YOUR_SECRET_KEY>
-`
+```
 # Start server Media Hub
 
 ### `npm i`
